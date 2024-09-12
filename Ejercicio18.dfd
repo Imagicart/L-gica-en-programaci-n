@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+76
+'Por favor digite su edad y el sistema comprobara si aún eres un adolecente'
+5
+1
+4
+edad
+7
+0
+1
+10
+edad >= 13
+4
+1
+41
+'Aún eres un nino ve y juega con jugetes'
+13
+7
+0
+1
+10
+edad <= 19
+4
+1
+44
+'Eres un adulto. Ya te toca pagar impuestos'
+13
+4
+1
+44
+'Eres un adolecente aún y tu edad es: ',edad
+13
+13
+1

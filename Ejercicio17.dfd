@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+'Estimado usuario por favor digite el valor de su compra para saber si obtuvo algun descuento por su compra'
+5
+1
+5
+total
+7
+0
+1
+15
+total >= 100000
+4
+1
+39
+'Lo sentimos no tiene ningun descuento'
+13
+6
+2
+1
+t
+11
+total * 0.1
+1
+e
+9
+total - t
+4
+1
+109
+'Felicidades obtuvo un descuento del 10% por el total de su compra. El valor de su compra entonces seria: ',e
+13
+1

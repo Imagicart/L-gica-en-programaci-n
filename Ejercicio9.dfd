@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+'Calcula si obtienes envio gratis de tu producto, acontinuación ingresa el valor a pagar'
+6
+1
+1
+e
+5
+15000
+5
+1
+5
+monto
+7
+0
+1
+14
+monto >= 50000
+6
+1
+1
+f
+9
+monto + e
+4
+1
+93
+'Lo sentimos no tienes envio gratis, el envio cuesta: ',e,' y el total con el evio es de: ',f
+13
+4
+1
+68
+'Felicitaciones tienes envio gratis, tu total a pagar es de: ',monto
+13
+1

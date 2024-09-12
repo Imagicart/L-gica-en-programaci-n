@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+actual
+4
+2024
+4
+1
+139
+'Acontinuación ingresa el año que deseas saber si es el año es antiguo o resiente y saber cuanto tiempo a transcurrido desde la actualidad'
+5
+1
+3
+año
+7
+0
+1
+11
+año >= 2000
+6
+1
+1
+e
+12
+actual - año
+4
+1
+89
+'Este es un año antigua y el total de años que han pasado a la actualidad es: ',e,' años'
+13
+7
+0
+1
+11
+año <= 2024
+4
+1
+35
+'Lo sentimos este año aún a pasado'
+13
+6
+1
+1
+e
+12
+actual - año
+4
+1
+77
+'Este es un año es resiente y el tiempo trancurrido hasta hoy es: ',e,' años'
+13
+13
+1

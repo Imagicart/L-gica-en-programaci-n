@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+'Validación de creditos para la graduación'
+5
+1
+8
+creditos
+7
+0
+1
+15
+creditos >= 120
+6
+1
+1
+e
+14
+120 - creditos
+4
+1
+83
+'Lo sentimos te hacen falta la cantidad de: (',e,') creditos, para poderte graduar'
+13
+4
+1
+71
+'Felicitaciones por tu proxima gradución y haber conseguido este logro'
+13
+1

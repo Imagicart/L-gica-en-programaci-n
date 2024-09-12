@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'Verificación de edad para poder votar, por favor acontinuación ingresa tu edad'
+5
+1
+4
+edad
+7
+0
+1
+10
+edad >= 18
+4
+1
+50
+'Lo sentimos no tienes edad suficiente para votar'
+13
+4
+1
+121
+'Felicidades por favor ingresa la opcion 1 si desas votar por el cadidato A, selciona 2 si desas votar por el cadidato B'
+5
+1
+6
+opcion
+7
+0
+1
+9
+opcion =1
+7
+0
+1
+10
+opcion = 2
+4
+1
+36
+'Lo siento esta opción no es valida'
+13
+4
+1
+56
+'Felicidades su voto quedo guardado en la base de datos'
+13
+13
+4
+1
+57
+'Felicidades tu voto quedo guardado en la base de daatos'
+13
+13
+1

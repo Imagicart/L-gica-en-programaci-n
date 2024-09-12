@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+77
+'Por favor ingresa tu edad y años contisados para saber si resiviras pensión'
+5
+1
+10
+edad, años
+7
+0
+1
+10
+edad >= 60
+4
+1
+45
+'Lo sentimos no cuentas con la edad sufiente'
+13
+7
+0
+1
+10
+años >= 20
+4
+1
+58
+'Lo sentimos pero no cuentas con el tiempo de contización'
+13
+4
+1
+60
+'Felicidades tienes todo lo suficiente para resivir pensión'
+13
+13
+1

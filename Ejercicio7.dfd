@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'Ingresa tu nota final y comprabaremos si has aprovado el curso'
+5
+1
+33
+nota1, nota2, nota3, nota4, nota5
+6
+2
+8
+promedio
+36
+nota1 + nota2+ nota3 + nota4 + nota5
+5
+notaf
+12
+promedio / 5
+7
+0
+1
+12
+notaf >= 3.0
+4
+1
+79
+'Lo siento no has aprovado buena suerte para la proxima, tu puntaje es: ',notaf
+13
+4
+1
+52
+'Felicitaciones has aprobado tu puntaje fue: ',notaf
+13
+1

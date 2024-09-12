@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'Dererminar si una persona puede viajar sola o sin acompañante'
+5
+1
+4
+edad
+7
+0
+1
+9
+edad >=21
+4
+1
+57
+'Debes ir acompañado de un tutor legal o persona a cargo'
+13
+7
+0
+1
+10
+edad >= 70
+4
+1
+31
+'Puedes viajar solo libremente'
+13
+4
+1
+76
+'Deberias viajar con un acompañante ya que eres una persona de tercera edad'
+13
+13
+1

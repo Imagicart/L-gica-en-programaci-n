@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+104
+'Digite el valor de la transacción realizada anteriormente para conocer si se aplica IVA o no se aplica'
+5
+1
+5
+valor
+7
+0
+1
+15
+valor >= 150000
+6
+2
+1
+e
+12
+valor * 0.19
+5
+total
+9
+e + valor
+4
+1
+89
+'A la anteriror compra no se le aplico IVA y el precio con el IVA incluido es de: ',total
+13
+4
+1
+25
+'Ya el IVA esta aplicado'
+13
+1
