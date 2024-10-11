@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'Por favor acontinuaciòn digite su edad y el valor de su compra'
+5
+1
+11
+edad, valor
+9
+1
+10
+valor <= 0
+4
+1
+37
+'Por favor volver a digitar el valor'
+5
+1
+5
+valor
+11
+7
+0
+1
+9
+edad > 60
+4
+1
+61
+'Lo sentimos no obtiviste el descueto y el precio es: ',valor
+13
+6
+2
+4
+suma
+11
+valor * 0.2
+5
+total
+12
+valor - suma
+4
+1
+100
+'Felicidades por ser una pasa y por ello obtiviste el 20 % de descuento el valor a pagar es: ',total
+13
+1
