@@ -1,0 +1,212 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+lim
+3
+100
+6
+opcion
+1
+0
+7
+vendido
+1
+0
+6
+3
+5
+valor
+4
+1500
+6
+dinero
+1
+0
+6
+contra
+5
+12345
+6
+2
+7
+entrega
+1
+0
+8
+falentre
+1
+0
+9
+1
+10
+opcion < 4
+7
+0
+1
+7
+lim = 0
+4
+1
+190
+'Bienvenido a la cafetería del itfip, elije la opción 1 para comprar almuerzo (solo puedes comprar 2 por personas) 2 para ver el informe del día, 3 para reclamar el almuerzo y 4 para salir.'
+5
+1
+6
+opcion
+7
+0
+1
+8
+opcion=1
+7
+0
+1
+8
+opcion=2
+7
+0
+1
+8
+opcion=3
+13
+4
+1
+55
+'Recuerda que solo puedes reclamar 1 almuerzo a la vez'
+7
+0
+1
+17
+vendido > entrega
+4
+1
+20
+'Valor no existente'
+13
+6
+2
+7
+entrega
+11
+entrega + 1
+8
+falentre
+17
+vendido - entrega
+4
+1
+26
+'Haz reclamado 1 almuerzo'
+13
+13
+13
+4
+1
+37
+'Ingresa la contraseña institucional'
+5
+1
+7
+pasword
+7
+0
+1
+16
+contra = pasword
+4
+1
+29
+'La contraseña es incorrecta'
+6
+1
+6
+opcion
+1
+4
+13
+4
+1
+58
+'Bienvenido a continuación encontrarás un informe del día'
+4
+1
+177
+'Vendido: ', vendido, ' para un total de $',dinero, ' y haz entregado: ', entrega, ' almuerzos, te quedan ', falentre, ' almuerzos por entregar y te quedan ', lim, ' almuerzos.'
+13
+13
+13
+4
+1
+36
+'¿Cuantos almuerzos deseas comprar?'
+5
+1
+6
+compra
+7
+0
+1
+11
+compra > 2 
+7
+0
+1
+10
+compra > 0
+4
+1
+7
+'ERROR'
+6
+1
+6
+opcion
+1
+4
+13
+6
+3
+7
+vendido
+17
+ vendido + compra
+6
+dinero
+14
+vendido* valor
+3
+lim
+12
+lim - compra
+4
+1
+38
+'Haz comprado ', compra, ' almuerzos' 
+13
+13
+4
+1
+45
+'Solo puedes comprar 2 almuerzos como máximo'
+13
+13
+13
+4
+1
+27
+'Se agotaron los almuerzos'
+6
+1
+6
+opcion
+1
+4
+13
+11
+1
