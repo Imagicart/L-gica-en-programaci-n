@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+credito
+7
+1500000
+9
+1
+11
+credito > 0
+4
+1
+50
+'ingresa el valor del producto que vás a cancelar'
+5
+1
+5
+valor
+7
+0
+1
+16
+valor <= credito
+4
+1
+20
+'Saldo insuficiente'
+13
+6
+1
+7
+credito
+15
+credito - valor
+13
+11
+4
+1
+23
+'Te quedaste sin saldo'
+1

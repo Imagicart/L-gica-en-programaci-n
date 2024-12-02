@@ -1,0 +1,98 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+natalia
+1
+0
+5
+pedro
+1
+0
+9
+1
+36
+natalia  <=100000 or pedro <=1000000
+4
+1
+118
+'Natalia y Pedro estan recaudando fondos ¿a quien deseas donar? escribe 1 para donar a Natalia y 2 para donar a Pedro'
+5
+1
+7
+persona
+7
+0
+1
+11
+persona = 1
+7
+0
+1
+11
+persona = 2
+13
+4
+1
+21
+'Cuanto deseas donar'
+5
+1
+8
+donacion
+7
+0
+1
+16
+pedro >= 1000000
+6
+1
+5
+pedro
+16
+pedro + donacion
+13
+4
+1
+50
+'Pedro ya alcanzó su meta, puedes donar a natalia'
+13
+13
+13
+4
+1
+21
+'Cuanto deseas donar'
+5
+1
+8
+donacion
+7
+0
+1
+18
+natalia >= 1000000
+6
+1
+7
+natalia
+18
+natalia + donacion
+13
+4
+1
+50
+'Natalia ya alcanzó su meta, puedes donar a pedro'
+13
+13
+11
+4
+1
+58
+'Ya Pedro y Natalia alcanzaron su meta, gracias por donar'
+1

@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+saldo
+1
+0
+5
+salir
+1
+0
+9
+1
+9
+salir = 0
+4
+1
+162
+'Bienvenido al banco Z, digite 1 para recargar su cuenta, digite 2 si desea retirar su dinero, digite 3 para conocer su saldo y digite 4 para abandonar este menú'
+5
+1
+6
+opcion
+7
+0
+1
+10
+opcion = 1
+7
+0
+1
+10
+opcion = 2
+7
+0
+1
+10
+opcion = 3
+7
+0
+1
+10
+opcion = 4
+13
+6
+1
+5
+salir
+1
+4
+13
+13
+4
+1
+30
+'Su saldo actual es: ' , saldo
+13
+13
+4
+1
+25
+'¿Cuanto deseas retirar?'
+5
+1
+6
+retiro
+7
+0
+1
+14
+retiro > saldo
+6
+1
+5
+saldo
+14
+saldo - retiro
+13
+4
+1
+26
+'No cuentas con ese saldo'
+13
+13
+13
+4
+1
+44
+'Ingresa el la cantidad que deseas recargar'
+5
+1
+7
+recarga
+6
+1
+5
+saldo
+15
+saldo + recarga
+13
+11
+1
